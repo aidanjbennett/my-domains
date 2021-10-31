@@ -11,3 +11,4 @@ This is the list of all the domains I have and why I use them / there story.
 - https://notarickrolliswear.com - This domain was brought just to host a rick roll on.
 - https://cryptochord.xyz - This was to host a frontend for a discord bot I started making however I got bored and forgot about it until now.
 - https://kryptonmc.dev - This is a active project I am working on which is for a plugin repository for the Minecraft server software called Krypton.
+- https://aidanbennett.dev - I though I would use this to redirrect to https://aidanbennett.me but forgot about it. 
