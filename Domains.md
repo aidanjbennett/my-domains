@@ -10,3 +10,4 @@ This is the list of all the domains I have and why I use them / there story.
 - https://starnod.es - This domain is used to point at some servers I own so I don't have to remember the ip address of the server. The root domain also has a rick roll on it.
 - https://notarickrolliswear.com - This domain was brought just to host a rick roll on.
 - https://cryptochord.xyz - This was to host a frontend for a discord bot I started making however I got bored and forgot about it until now.
+- https://kryptonmc.dev - This is a active project I am working on which is for a plugin repository for the Minecraft server software called Krypton.
